@@ -1,5 +1,5 @@
 # C_Project_2017: A Contact Management System for ICT students
-This is the first group project at MUICT.
+This is the first group project at MUICT.  
 ITCS	200	– Fundamental	Programming
 
 ## Learning Objectives
