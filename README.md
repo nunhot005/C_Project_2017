@@ -1,7 +1,7 @@
 # C_Project_2017
 This is the first group project at MUICT.
 
-Learning Objectives:
+## Learning Objectives
 The objective of this project is to learn the basic concepts of C programming language and how to apply them to practical, real-world
 programming applications. Specifically, upon accomplishing this project, we expect to be able to:
 1. Declare variables and use them.
@@ -11,7 +11,7 @@ programming applications. Specifically, upon accomplishing this project, we expe
 5. Get a glimpse of how to write C programming to solve real-world problems.
 6. Enjoy coding with C language.
 
-Introduction:
+## Introduction
 ICT Contact Management System (ICT-CMS) is a tool to manage contacts
 information of ICT students like a basic phonebook. A user can add new contacts,
 list contacts, search contact, edit contact, and delete contact as a standard feature. At
