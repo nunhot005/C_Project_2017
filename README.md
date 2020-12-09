@@ -3,8 +3,10 @@ This is the first group project at MUICT.
 ITCS	200	– Fundamental	Programming
 
 ## Learning Objectives
-The objective of this project is to learn the basic concepts of C programming language and how to apply them to practical, real-world
-programming applications. Specifically, upon accomplishing this project, we expect to be able to:
+On the course of implementing this programming project, you will learn the basic
+concepts of C programming language and how to apply them to practical, real-world
+programming applications. Specifically, upon accomplishing this project, we expect
+you to be able to:
 1. Declare variables and use them.
 2. Learn how to apply a condition statement in a real-world problem.
 3. Learn how to use Array to manipulate variables.
